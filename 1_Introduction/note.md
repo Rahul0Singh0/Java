@@ -57,3 +57,19 @@
 # Scanner Class
   util is utility packages provied in Version 5.
   Scanner class within the util package.
+  Scanner works as pipe to read data from keyboard
+  System.in represents Keyboard
+  Scanner class have different methods:
+  1. nextInt()
+  2. nextFloat()
+  3. nextDouble()
+  4. next()
+  5. nextLine()
+  6. nextByte()
+  7. nextShort()
+  8. nextLong()
+  9. hasNextInt() : to confirm the next given number from keyboard is integer or not (it simply returns true or false)
+  10. hasNextFloat() : same as above statement
+  etc.
+  ### Note: 
+  You can use this command javap utility.Scanner to showing all methods in Scanner
