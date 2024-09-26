@@ -23,3 +23,14 @@
                public static java.lang.String toString(int, int);
                public static java.lang.String toUnsignedString(int, int);
    you can see all members by using this command "javap java.lang.Integer"
+
+# Variables
+  variable is a container where store the data of declared type.
+
+### Variable Naming - Rule: 
+    1. Case Sensitive
+    2. Contains alphabets, numbers,_ or $
+    3. Should not be a keyword
+    4. Should not be a class name, if class name currently used
+    5. No limit on length of name
+    6. Follow CamelCase
