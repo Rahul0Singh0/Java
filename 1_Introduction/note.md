@@ -72,4 +72,4 @@
   10. hasNextFloat() : same as above statement
   etc.
   ### Note: 
-  You can use this command javap utility.Scanner to showing all methods in Scanner
+  You can use this command 'javap utility.Scanner' to showing all methods in Scanner
