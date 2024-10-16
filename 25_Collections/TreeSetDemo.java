@@ -2,6 +2,11 @@ import java.util.List;
 import java.util.SortedSet;
 import java.util.TreeSet;
 
+class Point {
+    int x;
+    int y;
+}
+
 public class TreeSetDemo {
     public static void main(String[] args) {
         // This implementation provides guaranteed log(n) time cost for the basic operations(add, remove, and others)
